@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Mary-le-Bow before the Lord Mayor, Court of Aldermen, and citizens of London, on Friday the 26th of June a day appointed by proclamation for a general and publick fast / by Lilly Butler ...</title>
+            <author>Butler, Lilly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30731</idno>
+            <idno type="STC">Wing B6280</idno>
+            <idno type="STC">ESTC R20323</idno>
+            <idno type="EEBO-CITATION">12116548</idno>
+            <idno type="OCLC">ocm 12116548</idno>
+            <idno type="VID">54335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 760:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Mary-le-Bow before the Lord Mayor, Court of Aldermen, and citizens of London, on Friday the 26th of June a day appointed by proclamation for a general and publick fast / by Lilly Butler ...</title>
+                  <author>Butler, Lilly.</author>
+               </titleStmt>
+               <extent>29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Nehemiah IX, 26-27 --  Sermons.</term>
+               <term>Fast-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54335:1" rendition="simple:additions"/>
+            <p> SERMON Preached at St. Mary-le-Bow Before the LORD MAYOR, Court of Aldermen, AND <hi>Citizens of LONDON,</hi> On <hi>Friday</hi> the <hi>26th</hi> of <hi>June:</hi> A Day appointed by Proclamation for a General and Publick Faſt.</p>
+            <p>By <hi>LILLY BUTLER</hi> Miniſter of St. <hi>Mary Aldermanbry.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>B. Aylmer</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil,</hi> 1696.</p>
+            <pb facs="tcp:54335:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:54335:2"/>
+            <head>To the Right Honorable Sir <hi>JOHN HOUBLON,</hi> Lord Mayor of the City of <hi>London,</hi> And the Court of Aldermen.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I have publiſhed this Sermon preached before you on our late General and Publick Faſt day. I endeavoured to ſpeak thoſe things which were moſt ſuitable to the oc<g ref="char:EOLhyphen"/>caſion of that our <hi>Solemn Aſſembly,</hi> and proper to excite only thoſe Affections which became a People, humbling themſelves be<g ref="char:EOLhyphen"/>fore God, and ſupplicating for Pardon and Mercy and Aſſiſtance. And if the Print<g ref="char:EOLhyphen"/>ing of this plain Diſcourſe, may in any meaſure help to forward that Reformation of our Lives, it was deſigned to convince
+<pb facs="tcp:54335:3"/> the hearers of the neceſſity and advantages of, I ſhall bleſs God for this opportunity, of doing ſomething, how little ſoever it be, towards the promoting the Publick Good; Which that we may all, in our ſeveral places, zealouſly endeavour to advance, is the hearty Prayer of</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your moſt obliged and humble Servant <hi>Lilly Butler.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:54335:3"/>
+            <p> Mr. <hi>BUTLER'S</hi> Faſt-Sermon Preached before the Lord Mayor and Court of Aldermen,</p>
+            <p>
+               <hi>June</hi> 26. 1696.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:54335:4"/>
+            <head>Houblon Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> 30 <hi>die</hi> Junii 1690. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis</hi> Willielmi <hi>Tertii</hi> An<g ref="char:EOLhyphen"/>gliae, <hi>&amp;c. octavo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Butler</hi> to Print his Sermon preached at the Pariſh Church of St. <hi>Mary-le-Bow,</hi> on <hi>Friday</hi> laſt being a general Faſt-day, before the Right Honourable the Lord Mayor, Aldermen, and Citizens of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="9" facs="tcp:54335:4"/>
+            <epigraph>
+               <bibl>Nehem. 9. part of the 26, and 27 Verſes.</bibl>
+               <q>They wrought great Provocations: There<g ref="char:EOLhyphen"/>fore thou deliveredſt them into the Hand of their Enemies.</q>
+            </epigraph>
+            <p>
+               <hi>THE Children of Iſrael</hi> being <hi>aſſembled together with</hi>
+               <note place="margin">Verſ. 1.</note> 
+               <hi>faſting,</hi> upon a day of publick and ſolemn Hu<g ref="char:EOLhyphen"/>miliation, as this is; The <hi>Levites,</hi> in the Name of all the People, make an humble Acknowledg<g ref="char:EOLhyphen"/>ment to God, of their ungrateful and rebellious Behavi<g ref="char:EOLhyphen"/>our towards him; how they had all along defeated the gracious Methods of his Providence, to oblige and turn them to him; and how juſtly at length they were puniſh<g ref="char:EOLhyphen"/>ed by him.</p>
+            <p>He ſpared them long, and delivered them often, and did many great things for them. But <hi>they dealt proudly,</hi>
+               <note place="margin">Verſ. 16. 17.</note> 
+               <hi>and hardned their Necks, and refuſed to obey.</hi> And though God was <hi>ſlow to Anger,</hi> and for a great while <hi>ſuffered their</hi>
+               <note place="margin">Verſ. 19.</note> 
+               <hi>Manners, and in his manifold Mercies forſook them not;</hi> yet at length, when he ſaw they obſtinately perſiſted to abuſe his Patience and Mercy, and had aggravated their Sins to a moſt intolerable Degree, he became <hi>weary of forbearing. He gave his People to the Sword, and was wroth with his In<g ref="char:EOLhyphen"/>heritance. They wrought great Provocations: Therefore he deli<g ref="char:EOLhyphen"/>vered them into the Hand of their Enemies.</hi> In which Words we may obſerve, Firſt, The Character of the Iſraelites Practice, <hi>They wrought great Provocations.</hi> Secondly, The Puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="10" facs="tcp:54335:5"/> inflicted by God for it, <hi>He therefore delivered them into the Hand of their Enemies.</hi>
+            </p>
+            <p>In this manner he did often puniſh their <hi>great Provoca<g ref="char:EOLhyphen"/>tions.</hi> He had told them by <hi>Moſes,</hi> Lev. 26. that <hi>if they walkt in his Statutes, and kept his Commandments,</hi> he would <hi>give Peace in their Land, and none ſhould make them afraid.</hi> Verſe 6. <hi>They ſhould chaſe their Enemies, and make them fall before them by the Sword.</hi> Verſe 7. But if they ſhould <hi>deſpiſe his Statutes, and abhor his Judgments, and break his Covenant,</hi> Verſe 15. then he would <hi>ſet his Face againſt them, they ſhould be ſlain before their Enemies, and they that hated them ſhould reign over them</hi> verſe, 17. And the Prophet <hi>Iſaiah,</hi> long after, ſpeaks to them to the ſame purpoſe, <hi>Iſa.</hi> 1. 19, 20. <hi>If ye be willing and obedient ye ſhall eat the good of the Land; but if ye refuſe and rebel, ye ſhall be devoured by the Sword, for the Mouth of the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it.</hi>
+            </p>
+            <p>This was to be the ſtanding Method of God's proceed<g ref="char:EOLhyphen"/>ing with them, and accordingly we find it obſerved in abundance of Inſtances. I ſhall therefore make it my Bu<g ref="char:EOLhyphen"/>ſineſs at this Time, to apply this Account is given of God's Method in dealing with his People <hi>Iſrael,</hi> (as may be moſt ſuitable to the Occaſion of our preſent meeting) to our own particular Caſe and Circumſtances, by ſhewing, <hi>Firſt,</hi> How juſtly we may be charged, as the <hi>Jews</hi> are in the <hi>Text,</hi> with having <hi>wrought great Provocations. Second<g ref="char:EOLhyphen"/>ly,</hi> That we have great reaſon to fear, that our <hi>great Provocations</hi> may be puniſhed by God as theirs were, that he may therefore give us up <hi>into the Hand of our Enemies. Thirdly,</hi> What a dreadful Judgment this would be, which our Sins threaten us with. <hi>Fourthly,</hi> What is the moſt effectual means to prevent this Puniſhment of our <hi>great Provocations. Fifthly,</hi> What Particulars are required of us, in order to the Diſcharge of that general Duty, which
+<pb n="11" facs="tcp:54335:5"/> is ſo effectual a means to prevent this Puniſhment. Theſe are all of them very proper Matter for our preſent Me<g ref="char:EOLhyphen"/>ditation.</p>
+            <div n="1" type="part">
+               <p>
+                  <hi>Firſt,</hi> I am to ſhew how juſtly we may be charged, as the <hi>Jews</hi> were in the <hi>Text,</hi> with having <hi>wrought great Provocations.</hi> This will manifeſtly appear, if we conſi<g ref="char:EOLhyphen"/>der theſe following things.</p>
+               <p>
+                  <hi>Firſt,</hi> To what a prodigious Height all Kinds of Ini<g ref="char:EOLhyphen"/>quity are raiſed amongſt us. Atheiſm and Infidelity have ſtrangely improved their Intereſt in this Age, in reſpect both of the Number and Impudence of their Pro<g ref="char:EOLhyphen"/>ſelytes. And what <hi>David</hi> chargeth with <hi>Folly,</hi> but to <hi>ſay in our Hearts,</hi> Men are bold to profeſs with their Mouths as an Argument of a more diſcerning Wit and Reaſon. How inſolently do many <hi>ſet their Mouths againſt Heaven,</hi> diſputing the Being, and expoſing the Oracles of God, and deriding all the ſacred Myſteries of Religion? Are not profane Attempts daily made, to propagate the moſt unchriſtian Notions, with that Zeal and <hi>Earneſtneſs,</hi> with which we are required to <hi>contend for the Faith, which was once delivered unto the Saints?</hi> With what Loudneſs and Affectation do Men profane the awful Name of God? As if Blaſphemy were a ſort of Eloqence, and Oaths and Curſes Wit and Rhetorick; as if there were no greater Bravery, than, for Men to defie God and contemn his Judgments, and to curſe themſelves into Damnation. How is the Land over<g ref="char:EOLhyphen"/>ſpread with Luxury and Intemperance? And what Numbers are there, that regard nothing elſe, even now that <hi>God</hi> ſo loudly <hi>calls for faſting and mourning,</hi> but <hi>to ſit down to eat and drink, and to riſe up to play? Chamber<g ref="char:EOLhyphen"/>ing and Wantonneſs</hi> are become a Trade and Calling, and all the Arts of <hi>Solomon</hi>'s Harlot, <hi>Prov.</hi> 7. have been daily practiſed in our Streets, with the greateſt Cunning
+<pb n="12" facs="tcp:54335:6"/> and Impudence. How many Examples, doth almoſt every Day produce, of ſuch prodigious Frauds as for<g ref="char:EOLhyphen"/>mer Ages were Strangers to? How little of that Senſe of Honour is left, in managing Trade, which was wont to give ſuch great Advantage to it? Men are now in ſo much <hi>haſte to be rich,</hi> that the old, and honeſt Ways of Traffick, are too ſlow for the Violence of their cove<g ref="char:EOLhyphen"/>tous Deſires, and they greedily run after the new Inven<g ref="char:EOLhyphen"/>tions of a corrupt and fraudulent Age. Notwithſtand<g ref="char:EOLhyphen"/>ing the publick Dangers have threatned us, which are wont to unite a People amongſt themſelves; we have retained our old, and ingaged in new Quarrels, and are ſtill aſſaulting one another with unchriſtian Cenſures and Revilings; and ſeem to be more heartily concerned for Victory, in our little Differences at home, than in our Wars abroad, for our common Safety, Liberties, and Religion. And are not all theſe very <hi>great Provoca<g ref="char:EOLhyphen"/>tions?</hi>
+               </p>
+               <p>Secondly, Theſe will appear ſtill <hi>greater Provocations,</hi> if we conſider what Ingagements we are under, to ab<g ref="char:EOLhyphen"/>ſtain from all Tranſgreſſions of the Laws of God. This was a great Aggravation of the Sins of <hi>Iſrael,</hi> that they were a People in Covenant with God. The Sins of the <hi>uncircumciſed Nations</hi> were nothing ſo <hi>great Pro<g ref="char:EOLhyphen"/>vocations</hi> as <hi>theirs,</hi> who profeſſed themſelves the Peo<g ref="char:EOLhyphen"/>ple, and were ſolemnly dedicated to the Service of God. And therefore this is often charged upon them, as a hea<g ref="char:EOLhyphen"/>vy Aggravation of their Diſobedience and Rebellion againſt God, that thereby they had <hi>dealt falſly in,</hi> and <hi>broken his Covenant.</hi> The ſame Aggravation, only much heavier, are our Tranſgreſſions loaded with: We are as ſolemnly dedicated to God as they were, and ingaged to him by the Rites of a <hi>better Covenant, eſtabliſhed upon better Promiſes,</hi> and requiring a more eaſie and <hi>reaſon<g ref="char:EOLhyphen"/>able</hi>
+                  <pb n="13" facs="tcp:54335:6"/> 
+                  <hi>Service.</hi> We have generally made Promiſes, and Profeſſion, of <hi>renouncing the Devil, and all</hi> thoſe <hi>his Works,</hi> which notwithſtanding are ſo commonly and ſo impudently practiſed by us, and are therefore falſe and perjured Wretches in every wilful Sin we commit. How <hi>great</hi> then are our <hi>Provocations?</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Our Sins are very <hi>great Provocations,</hi> as they have been committed againſt the moſt prevailing Attempts of the <hi>Spirit of God,</hi> to reſtrain and reclaim us from them. This is particularly mentioned, as one Ag<g ref="char:EOLhyphen"/>gravation of the Sins of <hi>Iſrael,</hi> Verſe 20. <hi>that God had given them his Spirit to inſtruct them;</hi> and Verſe 30. <hi>that he teſtified againſt them by his Spirit in the Prophets.</hi> But we that are <hi>Chriſtians,</hi> have clearer Revelations made, both of our Duty, and the Motives to it, than the <hi>Jews</hi> had, <hi>by the ſame Spirit.</hi> And theſe things have been taught and urged upon us, with great Plainneſs and Af<g ref="char:EOLhyphen"/>fection, by thoſe whom the <hi>Holy Ghost</hi> hath ſet apart for the Work of the Miniſtry, who have not ſpared to tell us of our Sins, to warn us of our Danger, and to call us to Repentance. The <hi>Author</hi> to the <hi>Hebrews</hi> mentions this as a peculiar Aggravation of deſpiſing the Law of Chriſt, in comparing it with <hi>deſpiſing the Law</hi> of <hi>Moſes,</hi> to <hi>do Deſpite to the Spirit of Grace.</hi> The Sins of Chriſti<g ref="char:EOLhyphen"/>ans<note place="margin">Heb. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. 29.</note> are committed againſt more prevailing Methods of God's <hi>Holy Spirit,</hi> and theſe Methods have been no where uſed, with greater Strength and Advantage than amongſt us; we have had more of his Light, more of his Calls and Invitations, more of his Warnings and Reproofs, more frequent and earneſt Applications than moſt, if not than any other of the Chriſtian Nations. Our Sins therefore, which, notwithſtanding all this, we have multiplyed againſt God, muſt needs be very <hi>great Provocations,</hi>
+               </p>
+               <pb n="14" facs="tcp:54335:7"/>
+               <p> 
+                  <hi>Fourthly,</hi> Our Sins are <hi>great provocations,</hi> as they have been committed againſt many and great Mercies. The Mercies of God are particularly inſiſted on, by the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> in this <hi>Chapter,</hi> in confeſſing and aggravating the Sins of <hi>Iſrael.</hi> His chooſing them for his People, his delivering them out of <hi>Egypt,</hi> his feeding them in the Wilderneſs, his long forbearances and his many gracious deliverances of them: And how like to theſe are the Mercies we have ſinned againſt? How early did God chooſe us to plant his Goſpel amongſt us, and take us into Covenant with him? How graciouſly did he deli<g ref="char:EOLhyphen"/>ver us from the Tyranny of <hi>Rome,</hi> from a far worſe Bondage than that of <hi>Egypt?</hi> What a rich and plentiful Land hath he planted us in? What an excellent Form of Government hath he Eſtabliſh'd for us? How conſtantly hath he been watching over us, interpoſing for us, and <hi>making bare his Arm</hi> in our defence? How many ſignal Mercies and Deliverances have been crouded into a few years paſt? When our <hi>hearts</hi> were ready to <hi>fail for fear, and for looking for thoſe things that were coming upon us,</hi> how ſeaſonably did God ſend us a Deliverer, and ſurpriſe us with the ſafety of all that was dear to us? And when our danger was greater, becauſe our fear was leſs, by what wonderful methods of Providence were the dark &amp; bloo<g ref="char:EOLhyphen"/>dy deſigns of our Enemies diſcovered and diſappointed, and their expected Triumphs turned into everlaſting In<g ref="char:EOLhyphen"/>famy and Reproach? If we look abroad, <hi>what Nation is there that hath had God ſo nigh unto them for all that we call upon him for;</hi> yea, for what we have neither asked nor thought of? And though we complain ſtill, as we have always done, yet we ſhould hardly be wil<g ref="char:EOLhyphen"/>ling to change Conditions with any of the Nations round about us. How <hi>great</hi> then are our <hi>provocations,</hi> the abominable Tranſgreſſions which we have committed, againſt our good and gracious God, who hath ſtriven
+<pb n="15" facs="tcp:54335:7"/> by all the methods of Love, by the moſt valuable expreſſions of Mercy and Goodneſs, to ingage us to return to him?</p>
+               <p>
+                  <hi>Fifthly,</hi> Our Sins are <hi>great provocations,</hi> as they have been committed againſt the Diſcipline of God's Rod, and thoſe many Judgments he hath ſent to teach us Righteouſneſs. This alſo is one of the aggravations of the ſins of the <hi>Jews,</hi> mentioned in this <hi>Chapter,</hi> and they are often in other places upbraided with it, for being <hi>ſmitten in vain</hi> and <hi>receiving no correction,</hi> but ſtill <hi>revolting more and more.</hi> And how juſt is this Charge againſt us alſo? How impregnable have our Luſts been againſt all the Batteries of the Divine Diſpleaſure? How many fiery Trials have we paſt through without leaving any thing of our Droſs be<g ref="char:EOLhyphen"/>hind us? God hath <hi>ſent the Pestilence among us after the manner of Egypt; He overthrew ſome of us as he overthrew Sodom and Gomorrha;</hi> our <hi>young men he hath ſlain with the Sword:</hi> He hath viſited us with inteſtine and foreign Wars; the Perſon of our Sovereign, our greateſt Security upon Earth, and many Thouſands of our Country-men are ſtill expoſed, to all the ſharp and fiery Inſtruments of Death; <hi>yet have we not returned unto the Lord, but in this our diſtreſs we</hi> rather <hi>ſin yet more againſt him.</hi> Our Luſts have <hi>increaſed and multiplied</hi> under the <hi>Curſes</hi> of God, the ſevereſt Judgments he hath puniſhed them with. Thus alſo have we <hi>wrought great provocations.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> Our Sins are yet <hi>greater provocations,</hi> as they have been committed, even whilſt we have been making publick Profeſſions of Repentance. For this is the pretence of appointing and obſerving our month<g ref="char:EOLhyphen"/>ly and yearly Faſts, that we may confeſs and bewail our ſins, and humble our ſelves, with purpoſes of Re<g ref="char:EOLhyphen"/>formation
+<pb n="16" facs="tcp:54335:8"/> and Amendment. The Prophet <hi>Iſaiah,</hi> Chap. 58. 3. doth thus aggravate the Sin of the <hi>Jews. In the Day of your Faſt ye find Pleaſure</hi> or <hi>Deſire,</hi> i. e. Your ſinful Luſts and Pleaſures are ſtill indulged by you, notwithſtanding all your faſting. And how juſt<g ref="char:EOLhyphen"/>ly may this too be charged upon us? Have we abated any thing of our Wickedneſs ſince we began our Faſts? Are we not the ſame ſinful People that we were before? What Luſts have we mortified, what wicked Cuſtoms have we aboliſhed, what ſinful Practices have we reformed, notwithſtanding all our Confeſſions of Sin, and pretended Humiliations for it, notwithſtand<g ref="char:EOLhyphen"/>ing ſo many ſolemn Profeſſions of Sorrow and Re<g ref="char:EOLhyphen"/>pentance? How highly provoking is ſuch Mockery and Hypocriſie? What a mean Opinion doth it argue we have of God? As if we thought him capable, of being impoſed upon, by falſe Pretences, and hypocri<g ref="char:EOLhyphen"/>tical Shews, and meer outward Ceremonies of Re<g ref="char:EOLhyphen"/>ſpect, or of being bribed by theſe to diſpenſe with the moſt abominable Impurities and Luſts. Thus we have <hi>turned</hi> our Faſting and <hi>Prayer into Sin,</hi> and made our Iniquities the more provoking, by theſe our <hi>ſolemn meetings.</hi> If we conſider all theſe things together, cer<g ref="char:EOLhyphen"/>tainly we cannot but confeſs that we of this Nation have <hi>wrought</hi> very <hi>great Provocations,</hi> that <hi>our Iniquities are increaſed over our Heads, and our Treſpaſſes grown up unto the Heavens.</hi> And will not God <hi>viſit for theſe things,</hi> will not his <hi>Soul be avenged on ſuch a Nation as this?</hi> Will not ſo loud a Cry of Sin awaken the divine Juſtice to a ſpeedy Execution of the Judgment we have deſerved, to withdraw his Protection, and to leave us to the Will of our mercileſs Enemies? That we may be poſſeſt with due Apprehenſions of our Dan<g ref="char:EOLhyphen"/>ger, I ſhall ſhew, Secondly, That we have great
+<pb n="17" facs="tcp:54335:8"/> Reaſon to fear that our <hi>great Provocations</hi> may be puniſhed by God as thoſe of the Jews were, that he may therefore give us up into the Hand of our Ene<g ref="char:EOLhyphen"/>mies. For,</p>
+            </div>
+            <div n="2" type="part">
+               <p>
+                  <hi>Firſt,</hi> We have no ſuch particular Promiſes of Preſervation from, and Conqueſt over our Enemies, as the <hi>Jewiſh</hi> Nation had. God had expreſly told them, that he would <hi>drive out the Nations before them,</hi> and give them a quiet and peaceable Poſſeſſion of the <hi>Land of Canaan.</hi> But notwithſtanding, for their <hi>great Provocations,</hi> he did often <hi>deliver them in<g ref="char:EOLhyphen"/>to their Enemies Hands.</hi> How then can we hope ſtill to eſcape this Puniſhment, who have no ſuch particu<g ref="char:EOLhyphen"/>lar Promiſes, when our <hi>Provocations</hi> are as <hi>great</hi> as theirs? God did often deliver the <hi>Jews</hi> for the ſake of his Promiſe to <hi>Abraham, Iſaac and Jacob,</hi> 2 King. 13. 23. <hi>And the Lord was gracious unto them, and had Compaſſion on them, and had reſpect unto them;</hi> he deli<g ref="char:EOLhyphen"/>vered them from the Oppreſſion of the King of <hi>Syria, be<g ref="char:EOLhyphen"/>cauſe of his Covenant with</hi> Abraham Iſaac, <hi>and</hi> Jacob, <hi>and would not deſtroy them, neither caſt he them from his Pre<g ref="char:EOLhyphen"/>ſence as yet.</hi> But we have no ſuch Promiſe made to any of our Fathers, and therefore have much leſs Reaſon to hope for that Defence and Protection from God, which the provoking <hi>Iſraelites</hi> did ſometimes find againſt their Enemies. The Example of the Text then is a ſtrong Argument againſt us, if God puniſhed their <hi>great Provocations</hi> with the Sword of their <hi>Enemies,</hi> we have great Reaſon to fear that he will, much rather, puniſh ours in like manner.</p>
+               <p>Secondly, The Honour of God was more concern<g ref="char:EOLhyphen"/>ed, in defending and preſerving the <hi>Jewiſh</hi> Nation, than it is in defending and preſerving ours. For they were the only Worſhippers of the <hi>Lord Jehovah,</hi> and
+<pb n="18" facs="tcp:54335:9"/> whilſt they were ſo, it was in a manner neceſſary for the aſſerting of his Divinity, and the Preſervation of the Knowledge and Worſhip of him, ſometimes to appear on their Behalf, and not to ſuffer their Ene<g ref="char:EOLhyphen"/>mies utterly to prevail againſt them. And therefore, when the <hi>Provocations</hi> of <hi>Iſrael</hi> were <hi>great,</hi> he is often ſaid to have <hi>wrought for his Name's Sake, that it ſhould not be polluted amongſt the Heathen,</hi> that they might not triumph and inſult over the God of <hi>Iſrael,</hi> as <hi>Rabſha<g ref="char:EOLhyphen"/>keh</hi> did over the Gods of thoſe Nations his Maſter had conquered, <hi>Iſa.</hi> 36. 18, 19. <hi>Where are the Gods of</hi> Hamath <hi>and</hi> Arphad? <hi>Where are the Gods of</hi> Sephar<g ref="char:EOLhyphen"/>vaim? <hi>Who are they among all the Gods of theſe Nations that have delivered their Land out of my Hand?</hi> And God did not give them up to be deſtroyed utterly by their Enemies, till he had planted a Church among the <hi>Gentiles,</hi> and had <hi>made them his People who were not his People</hi> But there can be no ſuch Reaſon given, for God's defending and preſerving us, notwithſtand<g ref="char:EOLhyphen"/>ing our <hi>great Provocations.</hi> The Honour of his Name cannot be ſo much intereſted in our Safety, who are only a Part of his Church. The Chriſtian Faith, and the true Worſhip of God, would ſtill be maintained and preſerved, though <hi>we</hi> ſhould be ſo given up into the Hands of our Enemies, that we ſhould be <hi>no more a People, and the Name of</hi> our <hi>Engliſh</hi> Church <hi>no more in Remembrance.</hi> How juſtly then may we fear this Pu<g ref="char:EOLhyphen"/>niſhment, if we ſtill continue our <hi>great Provocati<g ref="char:EOLhyphen"/>ons?</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> We have ſtill greater Reaſon to fear this particular Judgment for our <hi>great Provocations,</hi> be<g ref="char:EOLhyphen"/>cauſe it ſeems to be neareſt at Hand. It is a Rod which God hath been, for ſome Years, ſhaking over us, and threatning to puniſh us with. The Sword is
+<pb n="19" facs="tcp:54335:9"/> already drawn, we are actually ingaged in War, with a ſubtil and potent Enemy; and if God but with<g ref="char:EOLhyphen"/>draw himſelf, and reſolve to go out no more with our Hoſts, there needs nothing more to bring this heavy Judgment upon us. And can we hope that God will always be active on behalf of ſo provoking a People, that he will not at length be weary of interpoſing and fighting for us? This is a Judgment then ſo ready, and ſo eaſie to be inflicted on us, that we have great Reaſon to fear that God may thus puniſh our <hi>great Provocations.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> This is a Judgment that many amongſt us ſeem to be fond of; ſome are wiſhing and praying for it, and others have ingaged in the moſt horrid Villa<g ref="char:EOLhyphen"/>nies, that they might let it in upon themſelves and us. And will it not be very juſt with God, and very agreeable to his Method of puniſhing, to cauſe them to inherit their own Choice, and to <hi>be filled with their own Devices,</hi> and to obtain the Miſeries they ſo eagerly pur<g ref="char:EOLhyphen"/>ſue, eſpecially when we have all ſo highly deſerved to partake with them by our <hi>great Provocations?</hi> When ſo many of us are weary of God's Mercies, and impati<g ref="char:EOLhyphen"/>ent under the Deliverances he hath wrought for us, and complain of the Oppreſſion of his Bleſſings, may we not reaſonably fear, that he will take up a Reſolu<g ref="char:EOLhyphen"/>tion of <hi>delivering us no more,</hi> and ſaving us no longer againſt our Wills; that he will make us ſenſible of the Value of thoſe Bleſſings we deſpiſe, and murmur at, by forbearing to prolong our Enjoyment of them? If this be our Caſe then, if we have ſo much Cauſe to fear, that for our <hi>great Provocations</hi> God may <hi>deliver us up into the Hand of our Enemies,</hi> that we may be awakened to uſe our utmoſt Endeavours to prevent
+<pb n="20" facs="tcp:54335:10"/> this Puniſhment, it will be very ſeaſonable for us to conſider,</p>
+               <p>
+                  <hi>Thirdly,</hi> What a dreadful Judgment <hi>this</hi> would be, which our Sins threaten us with. What a wretched Condition ſhould we be in, if God ſhould give us up into the Hand of the Enemy we are contending with? Who can expreſs the Violence and Cruelty, the Rapes and Outrages, the Waſting and Barbarities, the Bur<g ref="char:EOLhyphen"/>nings and Bloodſhed, that have attended all his Suc<g ref="char:EOLhyphen"/>ceſſes? How much do theſe things tranſcend the moſt tragical Deſcriptions? with what barbarous Cruelty hath he perſecuted his own moſt faithful Subjects, on<g ref="char:EOLhyphen"/>ly for profeſſing the ſame Religion with us? What Slavery and Tyranny are thoſe very Perſons ſubjected to, that ſupport his Greatneſs and ſight for him? What a dreadful Protector then, of Life and Liber<g ref="char:EOLhyphen"/>ty, of Property and Religion, muſt he be, eſpecially for <hi>us</hi> who have ſo highly provoked him, and been the chief Bar to the Progreſs of his Succeſs and Victo<g ref="char:EOLhyphen"/>ries? Methinks the Thoughs of this terrible Judg<g ref="char:EOLhyphen"/>ment, our Sins ſo loudly threaten us with, ſhould make our Hearts tremble, and our <hi>Knees ſmite one againſt another.</hi> But is there no <hi>Hope in</hi> Iſrael <hi>concern<g ref="char:EOLhyphen"/>ing this thing?</hi> Is there <hi>no Remedy or eſcaping?</hi> God forbid, that our Caſe ſhould be thus deſperate. We cannot tell but God may yet be prevailed upon, to <hi>turn and repent and to leave a Bleſſing behind him.</hi> I ſhall therefore ſhew,</p>
+               <p>
+                  <hi>Fourthly,</hi> What is the moſt effectual means to pre<g ref="char:EOLhyphen"/>vent that dreadful Puniſhment, our <hi>great Provocations</hi> threaten us with. It is in one Word, Repentance; a deep Humiliation and Sorrow for all our <hi>great Pro<g ref="char:EOLhyphen"/>vocations,</hi> and a ſincere Amendment of our Lives, for the time to come. This we have great reaſon to
+<pb n="21" facs="tcp:54335:10"/> hope, might yet turn away the Wrath of God, and prevail for us againſt our Enemies. For,</p>
+               <p>
+                  <hi>Firſt,</hi> This is a Means, God hath always preſcribed, for the reſcuing his People out of their Enemies Hand: When at any time he threatned his People, for their <hi>great Provocations,</hi> to <hi>give them over to the Sword,</hi> he ſtill invited them to repent as a certain Means to eſcape it. The Prophet <hi>Joel</hi> deſcribes the Enemies of <hi>Judah</hi> in a very lofty and terrible manner, Chap. 2. <hi>A great People and a ſtrong, there hath not been ever the like, nei<g ref="char:EOLhyphen"/>ther ſhall there be any more after it. A Fire devours before them, and behind them a Fire burneth.</hi> Nevertheleſs he tells them if they would but <hi>turn and repent,</hi> God would <hi>remove this great Army from them,</hi> Verſe 20. <hi>and drive them into a Land barren and deſolate:</hi> And for our far<g ref="char:EOLhyphen"/>ther Encouragement, let us conſider,</p>
+               <p>
+                  <hi>Secondly,</hi> The Repentance and Reformation of his People, were generally followed, with moſt remarka<g ref="char:EOLhyphen"/>ble Victories over their Enemies. The Reformation in the Days of <hi>Aſa,</hi> was followed with a Victory over a <hi>thouſand thouſand Ethiopians;</hi> and that in the Days of <hi>Jehoſaphat</hi> with ſo ſignal a Victory over the Chil<g ref="char:EOLhyphen"/>dren of <hi>Moab and Ammon,</hi> that we read 2 <hi>Chron.</hi> 20. 29. <hi>That the Fear of God was on all thoſe Countries when they had heard that the Lord fought againſt the Enemies of</hi> Iſrael, and that in the Days of <hi>Hezekiah,</hi> with a wonderful Defeat of the victorious and inſulting Army of <hi>Sennacherib. Theſe things happened unto them for Examples, and are written for our</hi> Encouragement. And if we could but be perſwaded to make the Ex<g ref="char:EOLhyphen"/>periment, I doubt not but we might yet reap the like happy Fruits of a <hi>great</hi> Reformation. For,</p>
+               <pb n="22" facs="tcp:54335:11"/>
+               <p> 
+                  <hi>Thirdly,</hi> When thoſe that are God's People by Pro<g ref="char:EOLhyphen"/>feſſion and Covenant, repent and turn to him, then thoſe Ends and Reaſons ceaſe, for which God is wont to give them up into the Hand of their Enemies. Then God may defend and fight for them, without any Prejudice to the Honour of his Holineſs and Ju<g ref="char:EOLhyphen"/>ſtice and Providence. Nay, then the Glory of them is more fully manifeſted when he <hi>ſheweth himſelf ſtrong on the Behalf of them that are upright towards him. When the Righteous waſh their Feet in the Blood of their Enemies,</hi> then ſaith <hi>David,</hi> Pſal. 58. 10, 11. <hi>Men will ſay, Verily there is a Reward for the Righteous: Verily he is a God that judgeth in the Earth.</hi> When the <hi>Inhabi<g ref="char:EOLhyphen"/>tants of a Land have learned Righteouſneſs,</hi> the great Deſign of God's Judgments is accompliſhed. Then there is no need of giving them up <hi>into the Hand of their Enemies,</hi> that they may <hi>return and ſeek God;</hi> or be a Warning and <hi>Example to others that afterwards ſhould live ungodly.</hi> And,</p>
+               <p>
+                  <hi>Fourthly,</hi> As it doth very well conſiſt with, and an<g ref="char:EOLhyphen"/>ſwer the Ends of his Wiſdom, ſo it cannot but be ve<g ref="char:EOLhyphen"/>ry agreeable to his Inclinations, to defend and pro<g ref="char:EOLhyphen"/>tect a <hi>holy Nation, a peculiar People, purifyed to himſelf, and zealous of good Works.</hi> He delights in the Proſpe<g ref="char:EOLhyphen"/>rity of good Men, and <hi>rejoyceth over them to do them good.</hi> There is nothing more pleaſing, or agreeable to his Nature, than to <hi>exerciſe loving Kindneſs and Mercy.</hi> How forward then muſt he be to exerciſe theſe upon a Church and Nation, reformed in Faith and Practice? If but a ſingle <hi>righteous</hi> Man <hi>cry, the Lord</hi> is ready to <hi>hear</hi> and <hi>deliver him;</hi> how ready then would he be to hear, ſuccour, and defend, a righte<g ref="char:EOLhyphen"/>ous Society of Men? Such an Opportunity of ſubdu<g ref="char:EOLhyphen"/>ing the Enemies of a reformed People, he ſeems to
+<pb n="23" facs="tcp:54335:11"/> lament the Loſs of, <hi>Pſal.</hi> 81. 13, 14. <hi>O that my Peo<g ref="char:EOLhyphen"/>ple had hearkened unto me, and</hi> Iſrael <hi>had walked in my Ways! I ſhould ſoon have ſubdued their Enemies, and turned my Hand against their Adverſaries.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> We have great Reaſon to hope, that God is thus graciouſly inclined to our Nation in particular, to give us yet moſt happy Succeſs againſt our Enemies, if we would but yet repent, from his favourable Deal<g ref="char:EOLhyphen"/>ing with us, notwithſtanding the Continuance of our <hi>great Provocations.</hi> He hath often ſtretched out his Hand againſt us, but preſently taken it in again, as if he did not know how to give the fatal Blow. He hath ſuffered us to be encompaſſed with almoſt una<g ref="char:EOLhyphen"/>voidable Dangers, but ſtill at length <hi>his Arm hath wrought Salvation for us.</hi> He hath ſaved us out of the Hand of our Enemies, when they have been ready to triumph, in their almoſt accompliſh'd Deſigns againſt us; as if he were thus affectionately conteſting with himſelf concerning us, as we read he once was con<g ref="char:EOLhyphen"/>cerning <hi>Ephraim,</hi> Hoſ. 11. 8. <hi>How ſhall I give thee up</hi> England? <hi>How ſhall I deliver thee</hi> into the Hand of thine Enemies? <hi>My Heart is turned within me, my Re<g ref="char:EOLhyphen"/>pentings within me are kindled.</hi> What can be the Rea<g ref="char:EOLhyphen"/>ſon of all this Goodneſs and Forbearance and Long<g ref="char:EOLhyphen"/>ſuffering towards us, but his great Deſire, <hi>that we ſhould not periſh, but rather come to Repentance?</hi> If now we ſeriouſly conſider, on the one Hand, the imminent Danger, we have brought our ſelves into, by our <hi>great Provocations;</hi> and on the other Hand, the com<g ref="char:EOLhyphen"/>fortable Hopes we may yet entertain, of Safety and Deliverance, of Succeſs and Victory, if we did but re<g ref="char:EOLhyphen"/>pent and amend our Doings; methinks we ſhould be all ready to do the utmoſt we can for the accompliſh<g ref="char:EOLhyphen"/>ing of that which, is ſo neceſſary and prevailing a
+<pb n="24" facs="tcp:54335:12"/> Means, to preſerve us from the greateſt Calamities, and to make us a flouriſhing and a happy People. Which leads me to ſhew,</p>
+               <p>
+                  <hi>Fifthly,</hi> What Particulars are required of us, in or<g ref="char:EOLhyphen"/>der to the Diſcharge of that general Duty of Repen<g ref="char:EOLhyphen"/>tance, to prevent our being delivered into the Hand of our Enemies. To this End,</p>
+               <p>Firſt, Let us humble our ſelves before God, with Shame and Sorrow for all our <hi>great Provocations. Let us ſearch and try our Ways,</hi> and <hi>ſet our Iniquities in order before us.</hi> Let us <hi>know every Man the Plague of his own Heart,</hi> and reflect upon all thoſe prevailing Sins and Impieties, which overſpread the Nation; let us <hi>be af<g ref="char:EOLhyphen"/>flicted, mourn and weep</hi> for all our Abominations, and in the Anguiſh of our Spirits bewail the Folly and In<g ref="char:EOLhyphen"/>gratitude of them. This is the proper Work of this Day. Let us try then what we can do, what Impreſ<g ref="char:EOLhyphen"/>ſion we can make upon our Hearts, by reflecting up<g ref="char:EOLhyphen"/>on God's Mercy and our Ingratitude. Let us imploy our Minds in ſuch Thoughts and Reaſonings as theſe. Oh! How kind, how compaſſionate, how bountiful a Father have we offended and provoked? What could God have done for us that he hath not done? And yet what could we have done againſt him that we have forborn? <hi>O the Riches of that Forbearance and Long-ſuffering</hi> we have deſpiſed! <hi>O the Height and Depth</hi> of that Love we have abuſed! We have been obſtinately ſighting againſt God, whilſt he hath been caring, and watching, and fighting for us. We have been taking part with <hi>his</hi> Enemies, the Devil and Sin, whilſt he hath been defeating the malicious and cruel
+<pb n="25" facs="tcp:54335:12"/> Attempts of <hi>ours. Thus have we requited the Lord,</hi> the Lord that made and <hi>bought us,</hi> our moſt liberal Bene<g ref="char:EOLhyphen"/>factour, our moſt gracious Protector, the <hi>God of our Salvation.</hi> And can we forbear to add, <hi>The Remem<g ref="char:EOLhyphen"/>brance of theſe things is grievous unto us, the Burden of them is intolerable?</hi> We <hi>abhor our ſelves</hi> for them, and bitterly bewail the <hi>Iniquity of theſe our Abominations.</hi> If we are not thus affected with Shame and Sorrow, for our perſonal and national Sins, we have been mocking God this Day, by an hypocritical Faſt; and have made our <hi>Provocations</hi> and our Danger ſtill <hi>great<g ref="char:EOLhyphen"/>er.</hi> But neither is this all that God requires, <hi>in the Faſt that he hath choſen,</hi> or for the procuring his Help againſt our Enemies, <hi>a Day for a Man to afflict his Soul;</hi> but to our Sorrow for what is paſt,</p>
+               <p>
+                  <hi>Secondly,</hi> We muſt add ſincere and hearty Reſolu<g ref="char:EOLhyphen"/>tions to forſake and turn from all our Tranſgreſſions, and to <hi>walk before God in Holineſs and Righteouſneſs all our Days.</hi> Let us reſolve then every Man of us, by the Grace of God, to reform our Lives in every par<g ref="char:EOLhyphen"/>ticular, wherein we have offended; to ſacrifice our deareſt Luſts to the common Safety of our Church and Nation; that there ſhall no longer cleave to us any of thoſe <hi>accurſed things,</hi> which may <hi>trouble our Hoſts,</hi> or ſtrengthen the Hands of our Enemies againſt us. With what Face can we complain of any Miſcarria<g ref="char:EOLhyphen"/>ges, whilſt we obſtinately perſiſt in thoſe Tranſgreſſi<g ref="char:EOLhyphen"/>ons, which ſo juſtly provoke God, to infatuate our Counſels, and to prevent the Succeſs of the wiſeſt, and the moſt ſincere Endeavours for the publick Good? Every impenitent Sinner amongſt us is a Traytor to his Country, and hath a Hand in all our Miſmanage<g ref="char:EOLhyphen"/>ments
+<pb n="26" facs="tcp:54335:13"/> and Misfortunes, and oppoſeth the eſtabliſhing and perfecting of that Deliverance God hath wrought for us; and warreth againſt that Safety at home, which our Fleets and Armies are ſent abroad to fight for. If then we have any Affection for the Country wherein we were born, and have enjoyed ſo great a Plenty of the richeſt Bleſſings; if we have any Value for thoſe Laws by which our Liberties and Properties are maintained; if we have any Love for that Church wherein we were baptized, and enjoy ſuch excellent Helps for the promoting our eternal Happineſs; if we have any Regard to that Purity of Doctrine and Worſhip, which by ſo many Wonders of Providence, God hath continued to us; if we have any Concern for our Perſons, Eſtates, and Families; if we dread the Thoughts of having all given up, to the Ravage and Fury of the moſt barbarous Inſolence and Cruel<g ref="char:EOLhyphen"/>ty, that many Ages have produced; let us no longer delay the Time to keep the Commandments of God, let us not loſe the preſent Opportunity of ſecuring all the deareſt Intereſts we have: Let it not be as <hi>a Price in the Hand of Fools, that have not a Heart to uſe it:</hi> Let us not refuſe thoſe Offers of Aid and Aſſiſtance, which the <hi>Lord of Hoſts</hi> doth this Day call upon us, to diſpoſe our ſelves for, by a true Repentance.</p>
+               <p>
+                  <hi>Thirdly,</hi> Let us endeavour to make this Reformati<g ref="char:EOLhyphen"/>on as general as we can: For, if it were but in any good Meaſure ſo, we might then be confident of the divine Protection, that God would <hi>ſtir up his Strength and come and help us;</hi> that he would make our <hi>dwel<g ref="char:EOLhyphen"/>ling on high, and our Place of Defence the Munition of Rocks,</hi> inacceſſible to all the Attempts of our ſtrongeſt
+<pb n="27" facs="tcp:54335:13"/> Enemies. If then by our Example or Authority, our Exhortations or Reproofs, our Friendſhip or Advice, or by any other proper Means, we can diminiſh that Heap of Tranſgreſſions, which is already <hi>grown up unto the Heavens,</hi> and loudly calls for the Vengeance of God upon us, let us not be want<g ref="char:EOLhyphen"/>ing to do our utmoſt. This is the moſt noble and bleſſed Deſign, we can poſſibly ingage in, to re<g ref="char:EOLhyphen"/>cover Men from thoſe <hi>Snares of the Devil they are taken captive</hi> by, to check the Inſolence of trium<g ref="char:EOLhyphen"/>phant Wickedneſs, and to reſtore the Practice of true Chriſtian Piety to its primitive Glory. For this purpoſe the Son of God came down from Hea<g ref="char:EOLhyphen"/>ven, and <hi>humbled himſelf unto Death, even the Death of the Croſs, to purifie to himſelf a peculiar People, zea<g ref="char:EOLhyphen"/>lous of good Works.</hi> And can we be more honou<g ref="char:EOLhyphen"/>rably imployed, than in joyning with the Saviour and Redeemer of Men, in <hi>working together with him,</hi> for the reclaiming a <hi>crooked and perverſe Na<g ref="char:EOLhyphen"/>tion?</hi> We can do nothing more highly conducing to the Honour of our God and Saviour, to the In<g ref="char:EOLhyphen"/>tereſt of our Church and Nation, to the ſubduing the Enemies we are at Striſe with, to the Be<g ref="char:EOLhyphen"/>nefit of our <hi>Proteſtant</hi> Brethren abroad, to the pro<g ref="char:EOLhyphen"/>curing a ſafe and honourable, a laſting and happy Peace, to our own preſent Comfort here, and our ever<g ref="char:EOLhyphen"/>laſting Happineſs hereafter. O let us not then be backward and unwilling to that, which we have all the Motives and Arguments in the World to perſuade us to proſecute with all our Might. We have been for<g ref="char:EOLhyphen"/>ward enough in making Parties, for thoſe private Cauſes we have eſpouſed; let us try now, with the ſame Zeal and Induſtry, to make a Party, at leaſt, for
+<pb n="28" facs="tcp:54335:14"/> God and the publick Good. Let us unite our hearty and vigorous Endeavours, to ſhame and diſcountenace Sin, to retrieve the Honour of de<g ref="char:EOLhyphen"/>ſpiſed Religion, and to increaſe the Number of the Friends and Votaries of abandoned. Virtue. Such an <hi>Aſſociation</hi> as <hi>this</hi> would indeed be the Honour and Intereſt of us all. This would give us Ground to hope, that God himſelf would in<g ref="char:EOLhyphen"/>gage with us, ſtand by us, and avenge us of all our Enemies. Let us every one then conſider, as in the Preſence of God, what is in our Power to do, towards the Reformation of the Lives of Men; and what particular Methods of promoting this our ſeveral Callings and Places oblige us to; and what Account we ſhall be able to give of our Stewardſhip, when we ſhall ſtand before the Tri<g ref="char:EOLhyphen"/>bunal of God, if we do not improve our Ta<g ref="char:EOLhyphen"/>lents to thoſe Ends, for which he hath put them into our Hands. This is a Work of too great Importance, with reſpect to God, our Country, and our ſelves, for any little Conſiderations to ex<g ref="char:EOLhyphen"/>cuſe our Neglect of. And though after all we can do, we ſhould have Cauſe to complain with the Prophet, <hi>Iſa.</hi> 49. 4, 5. that we <hi>have laboured in vain, and ſpent our Strength for nought; that the People will not be gathered; yet ſhall we be glorious in the Eyes of the Lord, and our God ſhall be our Strength.</hi> He will ſupport us under all our Diſap<g ref="char:EOLhyphen"/>pointments; he will preſerve us in publick Calami<g ref="char:EOLhyphen"/>ties, <hi>as ſhall be most expedient for us;</hi> he will make <hi>all things work together for our good,</hi> and at length bring us to that <hi>City of God,</hi> that Heavenly <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> where there are no Fears or Jealouſies,
+<pb n="29" facs="tcp:54335:14"/> no Murmurings or Complaints, no Factions or Di<g ref="char:EOLhyphen"/>viſions, no Wars or Contentions; but where all the bleſſed Inhabitants ſhall be unſpeakably and eternally happy, in the Enjoyment of the <hi>God of Love,</hi> and the <hi>Prince of Peace,</hi> and in the moſt hearty and conſtant Love of one another. For which Bleſſed Place God Almighty fit us all for Jeſus Chriſt his Sake, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54335:15"/>
+            <head>Some Books Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil.</hi>
+            </head>
+            <p>THE Works of the Moſt Reverend Dr. <hi>John Tillotſon,</hi> late Lord Archbiſhop of <hi>Canterbury,</hi> containing Fifty Four Sermons and Diſcourſes on Se<g ref="char:EOLhyphen"/>veral Occaſions: Together with the Rule of Faith. Be<g ref="char:EOLhyphen"/>ing all that were Publiſhed by his Grace himſelf, and now Collected into one Volume: To which is added, an Alphabetical Table of the Principal Matters. <hi>Price</hi> 20 <hi>s.</hi>
+            </p>
+            <p>The Works of the Learned <hi>Iſaac Barrow,</hi> D. D. late Maſter of <hi>Trinity-College</hi> in <hi>Cambridge.</hi> The Third Volume. Containing Forty Five Sermons upon Seve<g ref="char:EOLhyphen"/>ral Occaſions. In <hi>Folio.</hi>
+            </p>
+            <p>Practical Diſcourſes upon the Conſideration of our Latter End, and the Danger and Miſchief of Delay<g ref="char:EOLhyphen"/>ing Repentance. By Dr. <hi>Iſaac Barrow,</hi> in <hi>Octavo. Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>The Four Laſt Things, <hi>viz.</hi> Death, Judgment, Hea<g ref="char:EOLhyphen"/>ven, and Hell: Practically Conſidered and Applied. By <hi>W. Bates,</hi> D. D. in 12<hi rend="sup">o</hi>. Price 2 <hi>s.</hi>
+            </p>
+            <p>The great Duty of Reſignation to the Divine Will in Afflictions. Alſo by Dr. <hi>Bates.</hi> In 8<hi rend="sup">o</hi>. Price 18 <hi>d.</hi>
+            </p>
+            <p>Sermons of the Forgiveneſs of Sins. On <hi>Pſal.</hi> 130. <hi>v.</hi> 4. Alſo by Dr. <hi>Bates.</hi> Price 18 <hi>d.</hi>
+            </p>
+            <p>The Biſhop of <hi>Glouceſters</hi> Thankſgiving Sermon preached before the Houſe of Lords, <hi>April</hi> 16.</p>
+            <p>Mr. <hi>Stephens</hi> of <hi>Sutton</hi> in <hi>Surrey,</hi> his Thankſgiving Sermon preached before the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men at <hi>Bow</hi> Church the ſame day.</p>
+            <pb facs="tcp:54335:15"/>
+            <p> Mr. <hi>John Showers</hi> his Thankſgiving Sermon the ſame day.</p>
+            <p>Mr. <hi>Strype</hi> of <hi>Low-Layton</hi> in <hi>Eſſex,</hi> his Thankſgiving Sermon the ſame day.</p>
+            <p>Mr. <hi>Gardiner</hi> of <hi>London</hi> his Thankſgiving Sermon the ſame day.</p>
+            <p>The Chriſtian Merchant, deſcribed in a Sermon; Humbly Dedicated to all the Merchants of the City. By <hi>W. Goſtwyke,</hi> Rector of <hi>Purley</hi> in <hi>Berks.</hi>
+            </p>
+            <p>A Sermon concerning Vocal and Inſtrumental Mu<g ref="char:EOLhyphen"/>ſick in the Church. As it was deliver'd in the Pariſh Church of St. <hi>Andrews <g ref="char:V">Ʋ</g>nderſhaft,</hi> upon the <hi>31th</hi> of <hi>May</hi> 1696, being <hi>Whitſunday,</hi> and the Day wherein the Organ there Erected was firſt made uſe of. And the Hymn which was then Sung. By <hi>Gabriel Towerſon,</hi> D. D.</p>
+            <p>The Advice of a Father: Or Counſel to a Child; Directing him how to demean himſelf in the moſt im<g ref="char:EOLhyphen"/>portant paſſages of this Life. By <hi>E. C.</hi> Gent. In 12<hi rend="sup">o</hi>. Price 12 <hi>d.</hi>
+            </p>
+            <p>A Conference with an Anabaptiſt. By Dr. <hi>Aſheton</hi> of <hi>Beckenham</hi> in <hi>Kent.</hi> Price 12 <hi>d.</hi>
+            </p>
+            <p>A Sermon preached at the Meeting of Proteſtant Diſſenters, called Quakers, in <hi>Turners-Hall, London;</hi> on the <hi>16th</hi> of the Second Month 1696. Being the Publick Thankſgiving for the Deliverance of the King and Kingdom. By <hi>George Keith.</hi>
+            </p>
+            <p>An Exact Narrative of the Proceedings at <hi>Turners-Hall,</hi> the <hi>11th</hi> of the Month called <hi>June,</hi> 1696. Toge<g ref="char:EOLhyphen"/>ther with the Diſputes and Speeches there, between <hi>G. Keith</hi> and other Quakers, differing from him in ſome Religious Principles. The Whole Publiſhed and Reviſed by <hi>George Keith;</hi> With an Appendix containing ſome new Paſſages to prove his Opponents guilty of Groſs Errors, and Self-Contradictions.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
